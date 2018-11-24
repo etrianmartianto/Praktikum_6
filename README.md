@@ -1,7 +1,6 @@
 # Praktikum_6
 
-# Latihan 1 (Buatlah program sederhana untuk menginputkan 2 buah bilangan kemudian 
-menu operasi kalkulator sederhana, dengan ketentuan:
+# Latihan 1 (Buatlah program sederhana untuk menginputkan 2 buah bilangan kemudian menu operasi kalkulator sederhana, dengan ketentuan:
 - Impelementasikan dalam subprogram atau function dari masing-masing tersebut. 
 (penjumlahan,pengurangan,perkalian dan pembagian)
 - Buat pula fungsi untuk input datanya.
@@ -21,6 +20,19 @@ Algoritma
 10. Selesai
 
 Berikut Programnya
+
+
+
+
+
+
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Program1.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Program2.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Program3.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Program4.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Program5.png)
+
+
 
 
 
@@ -56,6 +68,10 @@ Berikut FlowChartnya
 
 Berikut Hasil Percobaan
 
+
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Coba1.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Coba2.png)
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Coba3.png)
 
 
 
