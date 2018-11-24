@@ -1,3 +1,4 @@
+
 # Praktikum_6
 
 # Latihan 1 (Buatlah program sederhana untuk menginputkan 2 buah bilangan kemudian menu operasi kalkulator sederhana, dengan ketentuan:
@@ -7,7 +8,9 @@
 - Gunakan perulangan untuk menampilkan menu
 - Gunakan switch untuk memilih pilihan menu
 
+```
 Algoritma 
+
 1. Mendeklarasikan float menu kalkulator sederhana
 2. Mendekrasikan int bilangan1, bilangan2, pilihan
 3. Masukkan perulangan do
@@ -19,6 +22,7 @@ Algoritma
 9. Pilih 0 untuk berhenti
 10. Selesai
 
+```
 Berikut Programnya
 
 
@@ -38,7 +42,7 @@ Berikut Programnya
 
 
 
-
+```
 Berikut Pseudocodenya:
 
 1. Do
@@ -47,7 +51,7 @@ Berikut Pseudocodenya:
 4. Bilangan2= ... Bilangan2 <--
 5. Write (Hasil yang dihitung)
 6. While (pilihan!=0)
-
+```
 Berikut FlowChartnya
 
 
