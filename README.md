@@ -52,6 +52,9 @@ Berikut FlowChartnya
 
 
 
+![alt text](https://github.com/etrianmartianto/Praktikum_6/blob/master/Flowchart.png)
+
+
 
 
 
